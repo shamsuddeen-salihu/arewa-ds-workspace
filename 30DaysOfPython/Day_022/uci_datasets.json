@@ -1,0 +1,82 @@
+[
+    {
+        "Dataset name": "Iris",
+        "Dataset Description": "A small classic dataset from Fisher, 1936. One of the earliest known datasets used for evaluating classification methods.",
+        "Task": "Classification",
+        "Data Type": "Tabular",
+        "Instances": "150 Instances",
+        "Features": "4 Features"
+    },
+    {
+        "Dataset name": "Dry Bean Dataset",
+        "Dataset Description": "Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera. A total of 16 features; 12 dimensions and 4 shape forms, were obtained from the grains.",
+        "Task": "Classification",
+        "Data Type": "Multivariate",
+        "Instances": "13.61K Instances",
+        "Features": "16 Features"
+    },
+    {
+        "Dataset name": "Rice (Cammeo and Osmancik)",
+        "Dataset Description": "A total of 3810 rice grain's images were taken for the two species, processed and feature inferences were made. 7 morphological features were obtained for each grain of rice.",
+        "Task": "Classification",
+        "Data Type": "Multivariate",
+        "Instances": "3.81K Instances",
+        "Features": "7 Features"
+    },
+    {
+        "Dataset name": "Heart Disease",
+        "Dataset Description": "4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach",
+        "Task": "Classification",
+        "Data Type": "Multivariate",
+        "Instances": "303 Instances",
+        "Features": "13 Features"
+    },
+    {
+        "Dataset name": "Adult",
+        "Dataset Description": "Predict whether income exceeds $50K/yr based on census data. Also known as \"Census Income\" dataset. ",
+        "Task": "Classification",
+        "Data Type": "Multivariate",
+        "Instances": "48.84K Instances",
+        "Features": "14 Features"
+    },
+    {
+        "Dataset name": "Wine",
+        "Dataset Description": "Using chemical analysis to determine the origin of wines",
+        "Task": "Classification",
+        "Data Type": "Tabular",
+        "Instances": "178 Instances",
+        "Features": "13 Features"
+    },
+    {
+        "Dataset name": "Breast Cancer Wisconsin (Diagnostic)",
+        "Dataset Description": "Diagnostic Wisconsin Breast Cancer Database.",
+        "Task": "Classification",
+        "Data Type": "Multivariate",
+        "Instances": "569 Instances",
+        "Features": "30 Features"
+    },
+    {
+        "Dataset name": "Diabetes",
+        "Dataset Description": "This diabetes dataset is from AIM '94",
+        "Task": "Classification",
+        "Data Type": "Multivariate, Time-Series",
+        "Instances": "1 Instances",
+        "Features": "20 Features"
+    },
+    {
+        "Dataset name": "Wine Quality",
+        "Dataset Description": "Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).",
+        "Task": "Classification, Regression",
+        "Data Type": "Multivariate",
+        "Instances": "4.9K Instances",
+        "Features": "12 Features"
+    },
+    {
+        "Dataset name": "Car Evaluation",
+        "Dataset Description": "Derived from simple hierarchical decision model, this database may be useful for testing constructive induction and structure discovery methods.",
+        "Task": "Classification",
+        "Data Type": "Multivariate",
+        "Instances": "1.73K Instances",
+        "Features": "6 Features"
+    }
+]
